@@ -11,3 +11,17 @@
     </li>
   {% endfor %}
 </ul>
+
+{% schema %}
+{
+  "name": "Section name",
+  "settings": [
+    {
+      "type":"checkbox",
+      "id": "show_soldout",
+      "label": "Show Sold Out Products",
+      "default": false
+    }
+  ]
+}
+{% endschema %}
