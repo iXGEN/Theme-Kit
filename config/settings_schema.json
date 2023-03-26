@@ -22,7 +22,7 @@
         "label": "Text",
         "default": "value",
         "info": "Text",
-        "placeholder": "This is a placeholder"
+        "placeholder": "This is a placeholder!"
       }
     ]
   }
