@@ -4,7 +4,7 @@
       "notebooks": {
         "type": "notebooks",
         "settings": {
-          "hide_soldout": true
+          "hide_soldout": false
         }
       }
     },
