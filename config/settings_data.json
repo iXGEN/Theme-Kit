@@ -1,6 +1,19 @@
 {
-  "current": "Default",
+  "current": {
+    "sections": {
+      "notebooks": {
+        "type": "notebooks",
+        "settings": {
+          "hide_soldout": true
+        }
+      }
+    },
+    "content_for_index": [
+
+    ]
+  },
   "presets": {
-    "Default": { }
+    "Default": {
+    }
   }
 }
